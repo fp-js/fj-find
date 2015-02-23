@@ -1,6 +1,6 @@
 {
   "name": "fj-find",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find FP style.",
   "main": "index.js",
   "scripts": {
